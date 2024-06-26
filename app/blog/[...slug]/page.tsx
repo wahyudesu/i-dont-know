@@ -102,8 +102,8 @@ export default async function PostPage({ params }: PostPageProps) {
       </h1>
       <div className="-mt-2 flex items-center space-x-3 text-sm">
         <Image
-        src="https://tx.shadcn.com/_next/image?url=%2Fimages%2Favatars%2Fshadcn.png&w=48&q=75"
-        alt="Author Image"
+        src="/avatar.png"
+        alt={siteConfig.author}
         width={42}
         height={42}
         className="rounded-full bg-white"
@@ -126,18 +126,12 @@ export default async function PostPage({ params }: PostPageProps) {
           alt="post.title"
           width={720}
           height={405}
-          className="bg-muted rounded-md border transition-colors"
+          className="mt-1 bg-muted rounded-md border transition-colors"
           priority 
         />
       )}
       <MDXContent code={post.body} />
       <hr className="mt-12" />
-      {/* <div className="flex justify-center py-6 lg:py-10">
-        <Link href="/blog" className={cn(buttonVariants({ variant: "ghost" }))}>
-          <Icons.chevronLeft className="mr-2 size-4" />
-          See all posts
-        </Link>
-      </div> */}
     </article>
   );
 }
