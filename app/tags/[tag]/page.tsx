@@ -61,6 +61,7 @@ export default function TagPage({ params }: TagPageProps) {
                       title={title}
                       description={description}
                       tags={tags}
+                      image=""
                     />
                   </li>
                 );

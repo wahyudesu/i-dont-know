@@ -102,7 +102,7 @@ export default async function PostPage({ params }: PostPageProps) {
         {post.title}
       </h1>
       <div className="-mt-2 flex items-center space-x-3 text-sm">
-        <img
+        <Image
         src="https://tx.shadcn.com/_next/image?url=%2Fimages%2Favatars%2Fshadcn.png&w=48&q=75"
         alt="Author Image"
         width={42}
