@@ -1,0 +1,32 @@
+{
+    "velite.config.ts": {
+        "description": "done"
+    },
+    "tailwind.config.ts": {
+        "description": "done"
+    },
+    "postcss.config.js": {
+        "description": "done"
+    },
+    "components.json": {
+        "description": "done"
+    },
+    "app/globals.css": {
+        "description": "done"
+    },
+    "app/layout.tsx": {
+        "description": "kayaknya done"
+    },
+    "app/page.tsx": {
+        "description": "done kayaknya"
+    },
+    "components/callout.tsx": {
+        "description": "done"
+    },
+    "components/mdx-card.tsx": {
+        "description": "done"
+    },
+    "components/mdx-components.tsx": {
+        "description": "done, tapi ada yang salah"
+    }
+}
