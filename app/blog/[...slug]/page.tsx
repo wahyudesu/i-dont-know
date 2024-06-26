@@ -14,7 +14,6 @@ import { buttonVariants } from "@/components/ui/button"
 import { Icons } from "@/components/icons"
 
 import { DocsPageHeader } from "@/components/page-header"
-import { DocsPager } from "@/components/pager"
 import { DashboardTableOfContents } from "@/components/toc"
 
 interface PostPageProps {
