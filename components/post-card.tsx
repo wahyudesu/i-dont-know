@@ -27,7 +27,7 @@ export function PostCard({
       )}
       <h2 className="text-2xl font-extrabold">{post.title}</h2>
       <div className="flex flex-wrap gap-1">
-        {post.tags.map((tag) => (
+        {post.tags?.map((tag) => (
           <Badge key={tag} variant="outline">
             {tag}
           </Badge>
