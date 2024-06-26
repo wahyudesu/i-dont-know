@@ -15,7 +15,6 @@ import {
   Laptop,
   Loader2,
   type LucideIcon,
-  LucideProps,
   Moon,
   MoreVertical,
   Pizza,
