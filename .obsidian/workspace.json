@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "9360a564e2e2a974",
+    "type": "split",
+    "children": [
+      {
+        "id": "cbb49dfe8dcc25f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "880421415734526b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/blog/code-blocks copy 2.mdx",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8dea205017a87973",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/blog/dynamic-routing-static-regeneration.mdx",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2293fcecaeda2771",
+    "type": "split",
+    "children": [
+      {
+        "id": "91b89c88bca60f53",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "533f129e3f7210e6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dda73d2c26314ad7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "765e982c7b01497f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "a1cfac3f4c1612d2",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fcb2bafc6fe0bdae",
+    "type": "split",
+    "children": [
+      {
+        "id": "34eae1afd9018b0e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66a640f66fae4b03",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/blog/code-blocks copy 2.mdx",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ad94bb5a43f64871",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/blog/code-blocks copy 2.mdx",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e928df20b84fbff6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "86b2ddec3d00f97c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/blog/code-blocks copy 2.mdx"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "edit-mdx:New .mdx file": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false
+    }
+  },
+  "active": "533f129e3f7210e6",
+  "lastOpenFiles": [
+    "content/blog/dynamic-routing-static-regeneration copy.mdx",
+    "public/avatar.png",
+    "content/blog/code-blocks.mdx",
+    "content/blog/code-blocks copy.mdx",
+    "content/blog-archive",
+    "content/blog/Saving Time with Fluent Search.mdx",
+    "content/blog/server-client-components copy.mdx",
+    "content/blog-archive/published=false/Yang kudapat dari SKS Time series forecasting.mdx",
+    "content/blog-archive/published=false/code-blocks copy.mdx",
+    "content/blog-archive/published=false",
+    "content/blog/server-client-components.mdx",
+    "public/images/blog/1_KFPy5Yv9N_bkFMlTYtEV8w.webp",
+    "public/images/blog/blog-post-4.jpg",
+    "public/images/blog/cover-Confusion Metrics.webp",
+    "public/images/blog/cover-sks.png",
+    "public/images/blog/cover-understanding-decomposition-in-machine-learning.png",
+    "README.md",
+    "public/images/blog/blog-post-1.jpg",
+    "public/images/blog/blog-post-3.jpg",
+    "public/images/blog/blog-post-2.jpg",
+    "public/images/hero.png",
+    "Summarized/Latihan nulis.md",
+    "Still Development/Breakdown cuy.md",
+    "Draft/Why You Should Never Use C.md",
+    "Draft/Why are most LLMs decoder.md",
+    "Draft/Steal like an artist.md"
+  ]
+}
